@@ -1,1 +1,1 @@
-write a code that prints cwd
+write a script that prints content
