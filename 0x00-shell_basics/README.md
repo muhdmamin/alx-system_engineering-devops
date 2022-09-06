@@ -1,1 +1,1 @@
-write a script that prints content
+script that redirects to user home
