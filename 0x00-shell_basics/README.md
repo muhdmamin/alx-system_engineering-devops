@@ -1,1 +1,1 @@
-script that redirects to user home
+script that lists more
