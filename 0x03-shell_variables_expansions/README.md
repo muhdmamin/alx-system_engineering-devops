@@ -1,0 +1,1 @@
+alias that ls rm
